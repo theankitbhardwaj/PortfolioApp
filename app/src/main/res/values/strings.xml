@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ankit Bhardwaj</string>
+    <string name="name">Ankit Bhardwaj</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_about">About Me</string>
+    <string name="title_contact">Contact Me</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
